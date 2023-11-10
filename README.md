@@ -30,5 +30,5 @@ npm i --save-dev cypress-mochawesome-reporter
 ./node_modules/.bin/cypress run --spec 'cypress/e2e/**/'
 ```
 
-3. O arquivo contento o relatório estará em: 
+3. O arquivo contendo o relatório estará em: 
 "..\testes\cypress\reports\html\index.html"
